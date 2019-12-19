@@ -5,8 +5,6 @@
 <html>
 
 <body>
-<%
-		response.sendRedirect("showLoginForm");
-	%>
+<% response.sendRedirect("showLoginForm");%>
 </body>
 </html>
